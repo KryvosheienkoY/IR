@@ -1,0 +1,3 @@
+The number of words in the collection: 988168811
+The size of the collection: 12654858 kilobytes 
+Time for creating dict: 7270.692 seconds 
